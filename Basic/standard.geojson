@@ -14,12 +14,6 @@
 "latitude": 28.02,
 "longitude": -26.17,
 "type":"FeatureCollection", "features": [
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-  "type": "FeatureCollection",
-  "features": [
     {
       "type": "Feature",
       "properties": {
@@ -222,7 +216,11 @@
         "coordinates": [28.0458, -26.1811]
       }
     }
-  ]
-}
-  ]
-}]}
+  
+
+  
+]}
+
+
+
+
