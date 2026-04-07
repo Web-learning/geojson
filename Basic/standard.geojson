@@ -14,5 +14,14 @@
 "latitude": 28.02,
 "longitude": -26.17,
 "type":"FeatureCollection", "features": [
-]
-}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bishopskop",
+        "year": 1904
+      }    }
+  ]
+}]}
