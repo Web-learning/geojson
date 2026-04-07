@@ -2,9 +2,12 @@
   "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": [28.0122748, -26.1800942]
+    "coordinates": [28.0122748, -26.1800942],
+     "zoom": 10
   },
   "properties": {
     "name": "Weblearning"
   }
 }
+
+
