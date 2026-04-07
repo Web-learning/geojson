@@ -1,6 +1,20 @@
 {
-  "type": "FeatureCollection",
-  "features": [
+"license": "CC0-1.0",
+"description": {
+"en": "Parktown Mansions"
+},
+"sources": "Openstreetmap, Wikipedia",
+"mediawikiCategories":[
+{
+"name": "Parktown Mansions",
+"sort":""
+}
+],
+"zoom": 17,
+"latitude": 18.42,
+"longitude": -33.93,
+"type":"FeatureCollection", "features": [
+ [
     {
       "type": "Feature",
       "properties": {
@@ -22,18 +36,8 @@
         "type": "Point",
         "coordinates": [-26.1765,28.0261]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Stonehouse",
-        "description": "Historic Parktown mansion"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-26.1731,28.0229]
-      }
     }
+    
     /* …more features here… */
   ]
 }
