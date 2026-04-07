@@ -1,24 +1,39 @@
-{"type":"FeatureCollection",
-   "features":[{
-	   "id": 1,
-      "type":"Feature",
-      "geometry":
-		"type": "POLYGON",
-{"coordinates":[
-[
-[28.01463629356063,-26.180054268301326],
-[28.014618859202027, -26.180132497287676],
-[28.014581308275808,-26.18004825068483],
-[28.01456789723073, -26.180121665585006]
-]
-],"type":"Polygon"},
-	"properties": {
-		"created_at": "2026-04-07",
-		"popupContent": "Office Space",
-		"media": [[]]
-	}
-
-"id":0}],
-"bbox":null
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Villa Arcadia",
+        "description": "Mansion in Parktown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.0248, -26.1729]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Northwards",
+        "description": "Heritage home"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.0261, -26.1765]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stonehouse",
+        "description": "Historic Parktown mansion"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.0229, -26.1731]
+      }
+    }
+    /* …more features here… */
+  ]
 }
-
