@@ -14,30 +14,214 @@
 "latitude": 28.02,
 "longitude": -26.17,
 "type":"FeatureCollection", "features": [
- [
+{
+  "type": "FeatureCollection",
+  "features": [
     {
       "type": "Feature",
       "properties": {
-        "name": "Villa Arcadia",
-        "description": "Mansion in Parktown"
+        "name": "Bishopskop",
+        "year": 1904
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-26.1729,28.0248 ]
+        "coordinates": [28.0250, -26.1828]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marienhof",
+        "year": 1904,
+        "link": "https://www.theheritageportal.co.za/plaque/marienhof"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.0456, -26.1728]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dolobran",
+        "year": 1905,
+        "link": "https://www.theheritageportal.co.za/plaque/dolobran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.0375, -26.1786]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eikenlaan",
+        "year": 1904,
+        "link": "https://www.theheritageportal.co.za/plaque/eikenlaan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.0356, -26.1825]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Emoyeni",
+        "year": 1905,
+        "link": "https://www.theheritageportal.co.za/plaque/emoyeni"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.0408, -26.1769]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hazeldene Hall",
+        "year": 1902,
+        "link": "https://www.theheritageportal.co.za/plaque/hazeldene-hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.0458, -26.1811]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hohenheim",
+        "year": 1892,
+        "status": "Demolished"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.0442, -26.1750]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North Lodge",
+        "year": 1906,
+        "link": "https://www.theheritageportal.co.za/plaque/north-lodge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.0369, -26.1794]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "name": "Northwards",
-        "description": "Heritage home"
+        "year": 1904,
+        "link": "https://www.theheritageportal.co.za/plaque/northwards"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-26.1765,28.0261]
+        "coordinates": [28.0344, -26.1778]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Savernake (Holcombe)",
+        "year": 1904,
+        "link": "https://www.theheritageportal.co.za/plaque/savernake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.0400, -26.1761]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sunny Side Park",
+        "year": 1896,
+        "link": "https://www.theheritageportal.co.za/plaque/sunnyside-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.0475, -26.1794]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Georges",
+        "year": 1904,
+        "link": "https://www.theheritageportal.co.za/plaque/st-georges-church-parktown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.0319, -26.1800]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stonehouse",
+        "year": 1905,
+        "link": "https://www.theheritageportal.co.za/plaque/stonehouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.0319, -26.1783]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The View",
+        "year": 1897,
+        "link": "https://www.theheritageportal.co.za/plaque/view"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.0453, -26.1814]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Villa Arcadia",
+        "year": 1897,
+        "link": "https://www.theheritageportal.co.za/plaque/villa-arcadia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.0414, -26.1744]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wanooka Place",
+        "year": 1902
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.0336, -26.1833]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Foxwoodhouse",
+        "year": 1926,
+        "link": "https://www.theheritageportal.co.za/plaque/foxwood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.0458, -26.1811]
       }
     }
-    
-    /* …more features here… */
   ]
+}
+
+
+]
 }
