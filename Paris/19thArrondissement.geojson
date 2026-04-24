@@ -1,14 +1,11 @@
 {
   "type": "FeatureCollection",
-  "generator": "overpass-turbo",
-  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2026-04-24T09:18:21Z",
   "features": [
     {
       "type": "Feature",
       "properties": {
         "@id": "relation/9552",
-        "admin_level": "9",
+        "admin_level": 9,
         "admin_type:FR": "arrondissement municipal",
         "alt_name": "XIXe Arrondissement",
         "boundary": "administrative",
@@ -20,10 +17,10 @@
         "name:ru": "XIX округ",
         "name:zh": "第十九区",
         "official_name": "Arrondissement des Buttes-Chaumont",
-        "population": "181616",
-        "population:date": "2021",
-        "postal_code": "75019",
-        "ref:INSEE": "75119",
+        "population": 181616,
+        "population:date": 2021,
+        "postal_code": 75019,
+        "ref:INSEE": 75119,
         "short_name": "19e",
         "source:name:br": "proper translation",
         "source:population": "INSEE 2024",
@@ -931,50 +928,6 @@
         ]
       },
       "id": "relation/9552"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/938394241",
-        "@relations": [
-          {
-            "role": "admin_centre",
-            "rel": 9552,
-            "reltags": {
-              "admin_level": "9",
-              "admin_type:FR": "arrondissement municipal",
-              "alt_name": "XIXe Arrondissement",
-              "boundary": "administrative",
-              "name": "Paris 19e Arrondissement",
-              "name:br": "19vet arondisamant Pariz",
-              "name:en": "19th Arrondissement",
-              "name:fr": "Paris 19e Arrondissement",
-              "name:ko": "파리 19구",
-              "name:ru": "XIX округ",
-              "name:zh": "第十九区",
-              "official_name": "Arrondissement des Buttes-Chaumont",
-              "population": "181616",
-              "population:date": "2021",
-              "postal_code": "75019",
-              "ref:INSEE": "75119",
-              "short_name": "19e",
-              "source:name:br": "proper translation",
-              "source:population": "INSEE 2024",
-              "type": "boundary",
-              "wikidata": "Q204622",
-              "wikipedia": "fr:19e arrondissement de Paris"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.38436,
-          48.889343
-        ]
-      },
-      "id": "node/938394241"
     }
   ]
 }
