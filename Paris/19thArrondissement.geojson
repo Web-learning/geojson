@@ -1,7 +1,18 @@
 {
-  "type": "FeatureCollection",
-  "features": [
-    {
+    "license": "CC0-1.0",
+    "description": {
+       "af": "19de arrondissement",       
+       "en": "19th Arrondissement",
+       "fr": "19e arrondissement de Paris"
+       "zu": "I-Arrondissement yesi-19"
+    },
+    "zoom":14,
+    "latitude": 8.88707,
+    "longitude": 2.38777,
+    "data": {
+       "type": "FeatureCollection",
+       "features": [
+       {
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -906,4 +917,8 @@
       "id": "relation/9552"
     }
   ]
+}
+}
+]
+}
 }
