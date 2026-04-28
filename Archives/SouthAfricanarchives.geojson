@@ -36,8 +36,8 @@
         "name": "National Library of South Africa (Cape Town Campus Archives)",
         "province": "Western Cape",
         "city": "Cape Town",
-        "type": "Specialised",
-        "website": "http://www.nlsa.ac.za/"
+         "type": "National",
+         "website": "http://www.nlsa.ac.za/"
       },
       "geometry": {
         "type": "Point",
@@ -52,7 +52,7 @@
         "province": "Free State",
         "city": "Bloemfontein",
         "type": "Provincial",
-        "website": "http://www.nationalarchives.gov.za/"
+        "website": "http://www.nationalarchives.gov.za/node/2692"
       },
       "geometry": {
         "type": "Point",
@@ -173,7 +173,7 @@
         "name": "University of Cape Town Special Collections",
         "province": "Western Cape",
         "city": "Cape Town",
-        "type": "University Archive",
+        "type": "University",
         "institution": "University of Cape Town",
         "website": "https://www.lib.uct.ac.za/special-collections"
       },
@@ -186,7 +186,7 @@
         "name": "University of the Witwatersrand Historical Papers Research Archive",
         "province": "Gauteng",
         "city": "Johannesburg",
-        "type": "University Archive",
+        "type": "University",
         "institution": "University of the Witwatersrand",
         "website": "https://www.wits.ac.za/historicalpapers/"
       },
@@ -199,8 +199,8 @@
         "name": "Stellenbosch University Special Collections",
         "province": "Western Cape",
         "city": "Stellenbosch",
-        "type": "University Archive",
-        "institution": "Stellenbosch University",
+         "type": "University",
+       "institution": "Stellenbosch University",
         "website": "https://library.sun.ac.za/en-za/Pages/special-collections.aspx"
       },
       "geometry": { "type": "Point", "coordinates": [18.8656, -33.9321] }
@@ -212,7 +212,7 @@
         "name": "University of KwaZulu-Natal Special Collections",
         "province": "KwaZulu-Natal",
         "city": "Durban",
-        "type": "University Archive",
+        "type": "University",
         "institution": "University of KwaZulu-Natal",
         "website": "https://library.ukzn.ac.za/special-collections/"
       },
@@ -225,7 +225,7 @@
         "name": "University of Pretoria Special Collections",
         "province": "Gauteng",
         "city": "Pretoria",
-        "type": "University Archive",
+        "type": "University",
         "institution": "University of Pretoria",
         "website": "https://www.up.ac.za/special-collections"
       },
@@ -238,7 +238,7 @@
         "name": "University of South Africa Archives and Special Collections",
         "province": "Gauteng",
         "city": "Pretoria",
-        "type": "University Archive",
+        "type": "University",
         "institution": "UNISA",
         "website": "https://www.unisa.ac.za/sites/corporate/default/Library/Archives-and-special-collections"
       },
@@ -251,7 +251,7 @@
         "name": "Rhodes University Cory Library for Historical Research",
         "province": "Eastern Cape",
         "city": "Makhanda",
-        "type": "University Archive",
+        "type": "University",
         "institution": "Rhodes University",
         "website": "https://www.ru.ac.za/corylibrary/"
       },
@@ -264,7 +264,7 @@
         "name": "University of the Western Cape Special Collections",
         "province": "Western Cape",
         "city": "Bellville",
-        "type": "University Archive",
+        "type": "University",
         "institution": "University of the Western Cape",
         "website": "https://lib.uwc.ac.za/archives/"
       },
@@ -277,8 +277,8 @@
         "name": "University of Johannesburg Special Collections",
         "province": "Gauteng",
         "city": "Johannesburg",
-        "type": "University Archive",
-        "institution": "University of Johannesburg",
+         "type": "University",
+       "institution": "University of Johannesburg",
         "website": "https://www.uj.ac.za/library/special-collections/"
       },
       "geometry": { "type": "Point", "coordinates": [28.0037, -26.1820] }
@@ -290,7 +290,7 @@
         "name": "North-West University Archives",
         "province": "North West",
         "city": "Potchefstroom",
-        "type": "University Archive",
+        "type": "University",
         "institution": "North-West University",
         "website": "https://library.nwu.ac.za/archives"
       },
@@ -361,9 +361,5 @@
       },
       "geometry": { "type": "Point", "coordinates": [28.0473, -26.2041] }
     }
-   
   ]
 }
-
-
-
