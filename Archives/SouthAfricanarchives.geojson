@@ -1,0 +1,369 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "National Archives Repository (Head Office)",
+        "province": "Gauteng",
+        "city": "Pretoria",
+        "type": "National",
+        "website": "http://www.nationalarchives.gov.za/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.2110, -25.7461]
+      }
+    },
+
+        {
+      "type": "Feature",
+      "properties": {
+        "name": "National Film, Video and Sound Archives",
+        "province": "Gauteng",
+        "city": "Pretoria",
+        "type": "National",
+        "category": "Audiovisual",
+        "website": "http://www.nationalarchives.gov.za/"
+      },
+      "geometry": { "type": "Point", "coordinates": [28.2293, -25.7479] }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "National Library of South Africa (Cape Town Campus Archives)",
+        "province": "Western Cape",
+        "city": "Cape Town",
+        "type": "Specialised",
+        "website": "http://www.nlsa.ac.za/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [18.4174, -33.9258]
+      }
+    },
+ 
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Free State Archives Repository",
+        "province": "Free State",
+        "city": "Bloemfontein",
+        "type": "Provincial",
+        "website": "http://www.nationalarchives.gov.za/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [26.1596, -29.1210]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Western Cape Archives and Records Service",
+        "province": "Western Cape",
+        "city": "Cape Town",
+        "type": "Provincial",
+        "website": "https://www.westerncape.gov.za/general-publication/western-cape-archives-and-records-service"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [18.4241, -33.9249]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KwaZulu-Natal Archives Repository",
+        "province": "KwaZulu-Natal",
+        "city": "Pietermaritzburg",
+        "type": "Provincial",
+        "website": "http://www.nationalarchives.gov.za/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.3928, -29.6006]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eastern Cape Archives Repository",
+        "province": "Eastern Cape",
+        "city": "Bhisho",
+        "type": "Provincial",
+        "website": "http://www.nationalarchives.gov.za/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.4426, -32.8472]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Northern Cape Archives Repository",
+        "province": "Northern Cape",
+        "city": "Kimberley",
+        "type": "Provincial",
+        "website": "http://www.nationalarchives.gov.za/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.7626, -28.7282]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North West Provincial Archives",
+        "province": "North West",
+        "city": "Mmabatho",
+        "type": "Provincial",
+        "website": "http://www.nationalarchives.gov.za/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.6367, -25.8500]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mpumalanga Archives Service",
+        "province": "Mpumalanga",
+        "city": "Nelspruit",
+        "type": "Provincial",
+        "website": "http://www.nationalarchives.gov.za/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.9853, -25.4753]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Limpopo Provincial Archives",
+        "province": "Limpopo",
+        "city": "Polokwane",
+        "type": "Provincial",
+        "website": "http://www.nationalarchives.gov.za/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [29.4648, -23.9045]
+      }
+    },
+
+
+
+   {
+      "type": "Feature",
+      "properties": {
+        "name": "University of Cape Town Special Collections",
+        "province": "Western Cape",
+        "city": "Cape Town",
+        "type": "University Archive",
+        "institution": "University of Cape Town",
+        "website": "https://www.lib.uct.ac.za/special-collections"
+      },
+      "geometry": { "type": "Point", "coordinates": [18.4607, -33.9570] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "University of the Witwatersrand Historical Papers Research Archive",
+        "province": "Gauteng",
+        "city": "Johannesburg",
+        "type": "University Archive",
+        "institution": "University of the Witwatersrand",
+        "website": "https://www.wits.ac.za/historicalpapers/"
+      },
+      "geometry": { "type": "Point", "coordinates": [28.0305, -26.1929] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stellenbosch University Special Collections",
+        "province": "Western Cape",
+        "city": "Stellenbosch",
+        "type": "University Archive",
+        "institution": "Stellenbosch University",
+        "website": "https://library.sun.ac.za/en-za/Pages/special-collections.aspx"
+      },
+      "geometry": { "type": "Point", "coordinates": [18.8656, -33.9321] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "University of KwaZulu-Natal Special Collections",
+        "province": "KwaZulu-Natal",
+        "city": "Durban",
+        "type": "University Archive",
+        "institution": "University of KwaZulu-Natal",
+        "website": "https://library.ukzn.ac.za/special-collections/"
+      },
+      "geometry": { "type": "Point", "coordinates": [31.0218, -29.8587] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "University of Pretoria Special Collections",
+        "province": "Gauteng",
+        "city": "Pretoria",
+        "type": "University Archive",
+        "institution": "University of Pretoria",
+        "website": "https://www.up.ac.za/special-collections"
+      },
+      "geometry": { "type": "Point", "coordinates": [28.2314, -25.7545] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "University of South Africa Archives and Special Collections",
+        "province": "Gauteng",
+        "city": "Pretoria",
+        "type": "University Archive",
+        "institution": "UNISA",
+        "website": "https://www.unisa.ac.za/sites/corporate/default/Library/Archives-and-special-collections"
+      },
+      "geometry": { "type": "Point", "coordinates": [28.1878, -25.7676] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rhodes University Cory Library for Historical Research",
+        "province": "Eastern Cape",
+        "city": "Makhanda",
+        "type": "University Archive",
+        "institution": "Rhodes University",
+        "website": "https://www.ru.ac.za/corylibrary/"
+      },
+      "geometry": { "type": "Point", "coordinates": [26.5235, -33.3117] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "University of the Western Cape Special Collections",
+        "province": "Western Cape",
+        "city": "Bellville",
+        "type": "University Archive",
+        "institution": "University of the Western Cape",
+        "website": "https://lib.uwc.ac.za/archives/"
+      },
+      "geometry": { "type": "Point", "coordinates": [18.6271, -33.9321] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "University of Johannesburg Special Collections",
+        "province": "Gauteng",
+        "city": "Johannesburg",
+        "type": "University Archive",
+        "institution": "University of Johannesburg",
+        "website": "https://www.uj.ac.za/library/special-collections/"
+      },
+      "geometry": { "type": "Point", "coordinates": [28.0037, -26.1820] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North-West University Archives",
+        "province": "North West",
+        "city": "Potchefstroom",
+        "type": "University Archive",
+        "institution": "North-West University",
+        "website": "https://library.nwu.ac.za/archives"
+      },
+      "geometry": { "type": "Point", "coordinates": [27.0970, -26.7145] }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South African History Archive (SAHA)",
+        "province": "Gauteng",
+        "city": "Johannesburg",
+        "type": "NGO",
+        "category": "Liberation",
+        "website": "https://www.saha.org.za/"
+      },
+      "geometry": { "type": "Point", "coordinates": [28.0300, -26.1920] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nelson Mandela Foundation Archives",
+        "province": "Gauteng",
+        "city": "Johannesburg",
+        "type": "NGO",
+        "category": "Liberation",
+        "website": "https://www.nelsonmandela.org/"
+      },
+      "geometry": { "type": "Point", "coordinates": [28.0280, -26.1350] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ahmed Kathrada Foundation Archive",
+        "province": "Gauteng",
+        "city": "Johannesburg",
+        "type": "NGO",
+        "category": "Liberation",
+        "website": "https://www.kathradafoundation.org/"
+      },
+      "geometry": { "type": "Point", "coordinates": [28.0470, -26.2040] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brenthurst Library",
+        "province": "Gauteng",
+        "city": "Johannesburg",
+        "type": "Private",
+        "category": "Africana",
+        "website": "https://www.thebrenthurstlibrary.org.za/"
+      },
+      "geometry": { "type": "Point", "coordinates": [28.0280, -26.1615] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anglo American Archive",
+        "province": "Gauteng",
+        "city": "Johannesburg",
+        "type": "Corporate",
+        "category": "Mining History",
+        "website": "https://www.angloamerican.com/"
+      },
+      "geometry": { "type": "Point", "coordinates": [28.0473, -26.2041] }
+    }
+   
+  ]
+}
+
+
+
