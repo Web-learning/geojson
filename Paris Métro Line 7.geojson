@@ -1,4 +1,11 @@
 {
+  "type": "FeatureCollection",
+  "features": [    
+{
+      "type": "Feature",
+
+      "properties": 
+{
     "license": "CC0-1.0",
     "description": {
         "en": "Paris Métro line 7 map",
@@ -222,9 +229,23 @@
                                 48.8190866
                             ]
                         ]
-                    ]
-                }
-            }
-        ]
-    }
+]
 }
+}
+]
+
+}
+
+}
+
+
+    }
+
+]
+    }
+
+            
+
+
+
+
