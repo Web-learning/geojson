@@ -15,6 +15,20 @@
         "coordinates": [28.2110, -25.7461]
       }
     },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gauteng Provincial Archives",
+        "province": "Gauteng",
+        "city": "Krugersdorp",
+        "type": "Provincial"
+         },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-26.1650682,27.7815923]
+      }
+    },
+    
 
         {
       "type": "Feature",
