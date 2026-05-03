@@ -1,34 +1,13 @@
+
 {
-    "license": "CC0-1.0",
-    "description": {
-        "en": "Western Cape, South Africa"
-    },
-    "sources": "Created from the Natural Earth Admin1 Polygons dataset. Available from Datahub:[https://datahub.io/core/geo-ne-admin1 https://datahub.io/core/geo-ne-admin1], under the [https://opendatacommons.org/licenses/pddl/1.0/ Open Data Commons Public Domain Dedication and License].",
-    "mediawikiCategories": [
-        {
-            "name": "GeoJSON maps of South Africa",
-            "sort": ""
-        }
-    ],
-    "zoom": 6,
-    "latitude": -34,
-    "longitude": 20,
-    "data": {
-        "type": "FeatureCollection",
-        "features": [
-            {
-                "type": "Feature",
-                "properties": {
-                    "ISO3166-1-Alpha-3": "ZAF",
-                    "country": "South Africa",
-                    "name": "Western Cape",
-                    "title": "Western Cape"
-                },
-                "geometry": {
-                    "type": "MultiPolygon",
-                    "coordinates": [
-                        [
-                            [
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
                                 [
                                     37.86378,
                                     -46.94085
@@ -3315,9 +3294,9 @@
                                 ]
                             ]
                         ]
-                    ]
+                    
                 }
             }
         ]
     }
-}
+
