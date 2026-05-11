@@ -1,26 +1,33 @@
 {
   "type": "FeatureCollection",
-  "bbox": [29.8, -29.6, 30.5, -29.0],
+  "bbox": [29.6, -29.9, 30.7, -28.9],
   "features": [
+
     {
       "type": "Feature",
-      "id": 1,
+      "properties": {
+        "feature_type": "region",
+        "name": "KwaZulu-Natal Midlands"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": []
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "feature_type": "venue",
+        "name": "Fordoun",
+        "category": "luxury",
+        "capacity": 180
+      },
       "geometry": {
         "type": "Point",
-        "coordinates": [30.12345, -29.12345]
-      },
-      "properties": {
-        "name": "Fordoun",
-        "slug": "fordoun",
-        "description": "Luxury Midlands wedding venue",
-        "category": "luxury",
-        "capacity": 180,
-        "website": "https://example.com",
-        "image": "https://example.com/image.jpg",
-        "address": "Nottingham Road",
-        "phone": "+27...",
-        "accommodation": true
+        "coordinates": [30.12, -29.33]
       }
     }
+
   ]
 }
