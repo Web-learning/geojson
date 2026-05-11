@@ -1,8 +1,13 @@
 {
   "type": "FeatureCollection",
-  "features": [
+
+"features": [
     {
       "type": "Feature",
+      "properties": {
+        "name": "uMgeni Local Municipality",
+        "type": "boundary"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5341,12 +5346,8 @@
             ]
           ]
         ]
-      },
-      "properties": {
-        "name": "uMgeni Local Municipality",
-        "type": "boundary"
-      },
-      "id": 0
+      }
+
     }
   ]
 }
