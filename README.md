@@ -6,7 +6,14 @@ The data has been sourced from [Open Street Maps][openstreetmap], usually via Ov
 
 ## Using Leaflet
 // -----------------------------------
-### 1. MAP INIT 
+### 1. Discovery 
 // -----------------------------------
 *[Quick start]: https://leafletjs.com/examples/quick-start/
 
+// -----------------------------------
+### 2. Communication 
+// -----------------------------------
+
+// -----------------------------------
+### 3. Workflow 
+// -----------------------------------
