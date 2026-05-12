@@ -6,7 +6,7 @@ The data has been sourced from [Open Street Maps][openstreetmap], usually via Ov
 
 ## Using Leaflet
 // -----------------------------------
-### 1. MAP INIT
+### 1. MAP INIT 
 // -----------------------------------
-[Quich start]: https://leafletjs.com/examples/quick-start/
+*[Quick start]: https://leafletjs.com/examples/quick-start/
 
