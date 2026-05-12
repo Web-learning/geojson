@@ -1,11 +1,12 @@
 # Geojson Data 
-This collection of geojson files contain geodata. This information is intended for raw use and can be inserted into Leaflet Maps.  
+This is a collection of geojson files. Each file contains geodata. This data has been collected for you to use. I'll show you how to insert this data into a Leaflet Map.  
 
-## Data
+## Data Source
 The data has been sourced from [Open Street Maps][openstreetmap], usually via Overpass Turbo.
 
-## Description
+## Using Leaflet
 // -----------------------------------
 ### 1. MAP INIT
 // -----------------------------------
-<div id="map"></div>
+[Quich start]: https://leafletjs.com/examples/quick-start/
+
