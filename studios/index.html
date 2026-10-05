@@ -1,1 +1,48 @@
+    <link rel="stylesheet" href="./style.css">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<div class="portfolio-map">
+
+  <header class="map-header">
+    <div>
+      <p class="eyebrow">7 October 2026</p>
+      <h1>Open Studios</h1>
+    </div>
+
+    <button
+      class="map-toggle"
+      type="button"
+      aria-label="Toggle project filters"
+      aria-expanded="false"
+    >
+      Filters
+    </button>
+  </header>
+
+  <nav class="map-filters" aria-label="Project categories">
+    <button class="filter active" data-filter="all">
+      All
+    </button>
+
+    <button class="filter" data-filter="13">
+      Daffonchio
+    </button>
+
+    <button class="filter" data-filter="21">
+      Gass
+    </button>
+
+  </nav>
+
+  <div id="map"></div>
+
+  <div class="project-count" aria-live="polite">
+    <span id="projectCount">0</span> Open Studios
+  </div>
+
+</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+
+    <script src="./script.js"></script>
 
