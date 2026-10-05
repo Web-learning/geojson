@@ -50,7 +50,7 @@ const projects = [
     title: "Daffonchio Architects ",
     studio: "Studio Name",
     architect: "Principal Architect",
-    year: "2024",
+    year: "Baker Street",
     category: "13",
     location: "Rosebank, Johannesburg",
     coordinates: [-26.14851, 28.03741],
