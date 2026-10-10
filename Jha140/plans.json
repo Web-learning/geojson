@@ -3,36 +3,36 @@
     "coords": [],
     "address": "Cottage, Smit Street, Braamfontein",
     "name": "1892 THE OLDEST PLAN IN THE ARCHIVE",
-    "wikipedia": "https://en.wikipedia.org/wiki/Yzerfontein"
+    "wikipedia": "https://en.wikipedia.org/wiki/"
   },
  {
-    "coords": [],
-    "address": "",
-    "name": "",
-    "wikipedia": ""
+    "coords": [-26.1987099,28.04576],
+    "address": "63 De Villiers Street, Braamfontein",
+    "name": "CULLINAN HOUSE, 1891",
+    "wikipedia": "https://en.wikipedia.org/wiki/Draft:
   },
 {
-    "coords": [],
-    "address": "",
-    "name": "",
-    "wikipedia": ""
+    "coords": [-26.19687,28.03905],
+    "address": "81 Harrison Street, corner Bok Street, Braamfontein",
+    "name": "BEER HALL AND ROOMS, 1903",
+    "wikipedia": "https://en.wikipedia.org/wiki/Draft:"
   },
 {
-    "coords": [],
-    "address": "",
-    "name": "",
-    "wikipedia": ""
+    "coords": [-26.1976706,28.0449161],
+    "address": "Noord Street & Wilhelm Street (later King George Street), Braamfontein",
+    "name": "JOUBERT PARK MANSIONS, 1905",
+    "wikipedia": "https://en.wikipedia.org/wiki/Draft:"
   },
 {
-    "coords": [],
-    "address": "",
-    "name": "",
-    "wikipedia": ""
+    "coords": [-26.2064594,28.0360813],
+    "address": "35-45 Fox Street, Ferreira's Dorp",
+    "name": "HEIGHT'S HOTEL, 1895",
+    "wikipedia": "https://en.wikipedia.org/wiki/Draft:"
   },
 {
-    "coords": [],
-    "address": "",
-    "name": "",
+    "coords": [-26.1995944, 28.0422408],
+    "address": "Plein Square, Johannesburg",
+    "name": "JOHANNESBURG TELEPHONE EXCHANGE, 1894",
     "wikipedia": ""
   },
 {
@@ -151,12 +151,10 @@
   }
 ]
 
-CULLINAN HOUSE, 1891 63 De Villiers Street, Braamfontein
-BEER HALL AND ROOMS, 1903 81 Harrison Street, corner Bok Street, Braamfontein
-JOUBERT PARK MANSIONS, 1905 Noord Street & Wilhelm Street (later King George Street), Braamfontein
-HEIGHT'S HOTEL, 1895 35-45 Fox Street, Ferreira's Dorp
-JOHANNESBURG TELEPHONE EXCHANGE, 1894
-Plein Square, Johannesburg
+
+ 
+
+
 BROADCAST HOUSE, 1935 170-176 Commissioner Street, Marshalltown
 ASSAY OFFICE FOR CONSOLIDATED GOLDFIELDS, c. 1900s
 20 Simmonds Street, Marshalltown
