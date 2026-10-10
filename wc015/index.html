@@ -1,0 +1,91 @@
+<style>/* ======================================== OPEN STUDIOS — DESIGN TOKENS ======================================== */
+
+:root { --logo: #ff6845; --ink: #151515; --bg: #f2efe7; --popup: #fffaf0; --panel: #d8ff00; --line: rgba(21, 21, 21, 0.16); --shadow: 0 12px 40px rgba(0, 0, 0, 0.14);
+
+--primary: #2596be; --secondary: #2596be; --tertiary: #ff6845; --contrast: #ff5ca8;
+
+--radius: 6px; --focus-ring: 0 0 0 3px var(--contrast); }
+
+/* ======================================== BASE ======================================== */
+
+, ::before, *::after { box-sizing: border-box; }
+
+body { margin: 0; padding: 32px; background: var(--bg); color: var(--ink); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
+
+#map { width: 100%; height: 650px; background: var(--bg); border: 1px solid var(--primary); box-shadow: var(--shadow); overflow: hidden; }
+
+/* ======================================== LEAFLET CANVAS ======================================== */
+
+.leaflet-container { font-family: inherit; color: var(--ink); background: var(--bg); }
+
+/* ======================================== CUSTOM IMAGE MARKERS Add className: "studio-marker" to your L.icon() options. ======================================== */
+
+.studio-marker { border: 1px solid var(--ink); border-radius: 25%; box-shadow: 5px 5px 0 var(--primary); object-fit: cover; background: var(--tertiary); transition: box-shadow 160ms ease; }
+
+.studio-marker:hover { box-shadow: 7px 7px 0 var(--tertiary); }
+
+/* ======================================== PERMANENT ADDRESS LABELS ======================================== */
+
+.leaflet-tooltip { padding: 8px 11px; border: 1px solid var(--ink); border-radius: 0; background: var(--panel); color: var(--ink); box-shadow: 3px 3px 0 var(--ink); font-size: 12px; font-weight: 800; letter-spacing: 0.02em; white-space: nowrap; }
+
+.leaflet-tooltip-top::before, .leaflet-tooltip-bottom::before, .leaflet-tooltip-left::before, .leaflet-tooltip-right::before { border: 0; }
+
+/* ======================================== POPUP WINDOWS ======================================== */
+
+.leaflet-popup-content-wrapper { padding: 0; border: 1px solid var(--ink); border-radius: 0; background: var(--popup); color: var(--ink); box-shadow: 6px 6px 0 var(--primary); }
+
+.leaflet-popup-content { min-width: 200px; margin: 18px; font-size: 13px; line-height: 1.6; }
+
+.leaflet-popup-content h3 { margin: 0 0 12px; color: var(--ink); font-size: 19px; font-weight: 900; line-height: 1.2; letter-spacing: -0.04em; }
+
+.leaflet-popup-content hr { height: 3px; margin: 12px 0; border: 0; background: var(--tertiary); }
+
+.leaflet-popup-content p { margin: 8px 0 0; overflow-wrap: anywhere; }
+
+.leaflet-popup-content strong { color: var(--primary); font-weight: 800; }
+
+/* ======================================== POPUP CLOSE BUTTON ======================================== */
+
+.leaflet-popup-close-button { top: 7px !important; right: 7px !important; color: var(--ink) !important; font-size: 21px !important; }
+
+.leaflet-popup-close-button:hover { color: var(--tertiary) !important; }
+
+/* ======================================== POPUP POINTER ======================================== */
+
+.leaflet-popup-tip { background: var(--popup); box-shadow: 3px 3px 0 var(--primary); }
+
+/* ======================================== ATTRIBUTION ======================================== */
+
+.leaflet-control-attribution { padding: 5px 8px !important; background: var(--popup) !important; color: var(--ink) !important; font-size: 10px !important; }
+
+.leaflet-control-attribution a { color: var(--primary) !important; font-weight: 700; }
+
+/* ======================================== KEYBOARD ACCESSIBILITY ======================================== */
+
+.leaflet-container a:focus-visible { outline: 3px solid var(--contrast); outline-offset: 2px; }
+
+/* ======================================== RESPONSIVE LAYOUT ======================================== */
+
+@media (max-width: 700px) { body { padding: 12px; }
+
+#map { height: 72vh; min-height: 400px; }
+
+.leaflet-popup-content { min-width: 160px; margin: 14px; }
+
+.leaflet-tooltip { padding: 6px 8px; font-size: 11px; } }
+
+@media (prefers-reduced-motion: reduce) { .studio-marker { transition: none; } }</style>
+<link
+  rel="stylesheet"
+  href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+/>
+
+<div class="map-wrapper">
+  <h2>Swartland Map</h2>
+  <p class="intro">Explore the towns within the <a href="https://en.wikipedia.org/wiki/Swartland_Local_Municipality">Swartland Local Municipality</a> with <a href="https://commons.wikimedia.org/wiki/User:Derek_J_Moore/GeoJSON/Dc01.json">Wikimedia Commons</a>.</p>
+  <div id="map"></div>
+</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script><script src="./script.js"></script>
+
+
