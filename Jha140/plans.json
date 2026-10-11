@@ -1,6 +1,6 @@
 [
   {
-    "coords": [26.190928, 28.040346],
+    "coords": [],
     "address": "Cottage, Smit Street, Braamfontein",
     "name": "1892 THE OLDEST PLAN IN THE ARCHIVE",
     "wikipedia": "https://en.wikipedia.org/wiki/"
@@ -33,6 +33,66 @@
     "coords": [-26.1995944, 28.0422408],
     "address": "Plein Square, Johannesburg",
     "name": "JOHANNESBURG TELEPHONE EXCHANGE, 1894",
+    "wikipedia": ""
+  },
+{
+    "coords": [],
+    "address": "170-176 Commissioner Street, Marshalltown",
+    "name": "BROADCAST HOUSE, 1935 ",
+    "wikipedia": ""
+  },
+{
+    "coords": [],
+    "address": "20 Simmonds Street, Marshalltown",
+    "name": "ASSAY OFFICE FOR CONSOLIDATED GOLDFIELDS, c. 1900s",
+    "wikipedia": ""
+  },
+{
+    "coords": [],
+    "address": "78 Fox St, Marshalltown",
+    "name": "CULLINAN BUILDING, 1904",
+    "wikipedia": ""
+  },
+ {
+    "coords": [],
+    "address": "114 Putney Road, Brixton",
+    "name": "P. J. MARAIS HOUSE, c. 1906",
+    "wikipedia": ""
+  },
+{
+    "coords": [],
+    "address": "",
+    "name": "EARLY HOUSES, BEZUIDENHOUT VALLEY, c.1900-1906",
+    "wikipedia": ""
+  },
+{
+    "coords": [],
+    "address": "Corner Marshall and Betty Streets, Jeppestown",
+    "name": "JOOSTE & BRYANT BUILDING, 1906",
+    "wikipedia": ""
+  },
+{
+    "coords": [],
+    "address": "40-42 Robinson Street, Belgravia",
+    "name": "FRIEDENHEIM, 1896",
+    "wikipedia": ""
+  },
+{
+    "coords": [],
+    "address": "Queens Road, Parktown",
+    "name": "PEN-Y-BRYN (TURNIP TOWERS), 1905",
+    "wikipedia": ""
+  },
+{
+    "coords": [],
+    "address": "Gale Road, Parktown",
+    "name": "BISHOPSKOP, 1904",
+    "wikipedia": ""
+  },
+{
+    "coords": [],
+    "address": "12 Beaumont Street, Oaklands",
+    "name": "BRAM FISCHER FAMILY HOUSE, 1938",
     "wikipedia": ""
   }
 ]
