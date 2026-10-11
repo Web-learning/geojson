@@ -1,4 +1,4 @@
-const map = L.map("map").setView([-33.4, 18.5], 9);
+const map = L.map("map").setView([-26.190928, 28.040346], 9);
 
 L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
   attribution:
@@ -7,7 +7,7 @@ L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
 }).addTo(map);
 
 // Load the external JSON file
-fetch("wc015.json")
+fetch("plans.json")
   .then(response => {
     if (!response.ok) {
       throw new Error(`Could not load locations.json: ${response.status}`);
